@@ -1,0 +1,22 @@
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.csproj.AssemblyReference.cache
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.csproj.SuggestedBindingRedirects.cache
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.Form1.resources
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.Properties.Resources.resources
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.csproj.GenerateResource.cache
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.csproj.CoreCompileInputs.cache
+D:\Tecnologias de Informacion\Consultas\Consultas\bin\Debug\Consultas.exe.config
+D:\Tecnologias de Informacion\Consultas\Consultas\bin\Debug\Consultas.exe
+D:\Tecnologias de Informacion\Consultas\Consultas\bin\Debug\Consultas.pdb
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.exe
+D:\Tecnologias de Informacion\Consultas\Consultas\obj\Debug\Consultas.pdb
+C:\Users\Daniela\Desktop\Consultas\Consultas\bin\Debug\Consultas.exe.config
+C:\Users\Daniela\Desktop\Consultas\Consultas\bin\Debug\Consultas.exe
+C:\Users\Daniela\Desktop\Consultas\Consultas\bin\Debug\Consultas.pdb
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.csproj.AssemblyReference.cache
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.Form1.resources
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.Properties.Resources.resources
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.exe
+C:\Users\Daniela\Desktop\Consultas\Consultas\obj\Debug\Consultas.pdb
